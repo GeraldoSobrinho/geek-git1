@@ -58,7 +58,9 @@ Linux e Mac OS.
 ## Meta
 
 Seu nome - [@SeuTwiter](https://twitter.com/seuTwitter) - gpdds@hotmail.com
+
 Distribuido sobre licença. Veja `LICENÇA` para mais informações.
+
 [https://github.com/GeraldoSobrinho/meuprojeto](https://github.com/geraldosobrinho)
 
 
